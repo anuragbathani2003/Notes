@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "e77c1148786d75bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6518679517c3ffd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "415147be8934a084",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff54b4de53aa7aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6e79d23332b214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e09fa1a90730aec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5dad74c26aa66cb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Metasploitale-2/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81654c325b48c5b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "36716f9353bec63a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f0148679073ddd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa8dd38974c3c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0ee51f8a38aa1ce4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "51fe2631da8566bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b25a7bca9b2ca2c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e09fa1a90730aec6",
+  "lastOpenFiles": [
+    "Mr.Robot/Getting key-3-of-3.txt.md",
+    "Mr.Robot/Getting key-2-of-3.txt.md",
+    "Mr.Robot/Getting Key-1-of-3.txt.md",
+    "Mr.Robot/photos/key_1_photo1.png",
+    "Mr.Robot/photos",
+    "Mr.Robot/Getting key-1-of-3.txt.md",
+    "Mr.Robot Ctf/Key-2-of-3.txt.md",
+    "Mr.Robot/photos/key3_photo3.png",
+    "Mr.Robot/photos/key3_photo2.png",
+    "Mr.Robot/photos/key3_photo1.png",
+    "Mr.Robot/photos/key2_photo9.png",
+    "Mr.Robot/photos/key2_photo8.png",
+    "Mr.Robot/photos/key2_photo7.png",
+    "Mr.Robot/photos/key2_photo6.png",
+    "Mr.Robot/photos/key2_photo5.png",
+    "Mr.Robot/photos/key2_photo4.png",
+    "Mr.Robot",
+    "create a link.md",
+    "Docker Notes/Docker Notes.md",
+    "Mr.Robot Ctf/Getting key-2-of-3.txt.md",
+    "Mr.Robot Ctf/Key-3-of-3.txt.md",
+    "stay updated!/Bleeping Computers/Texas tech university Data Breach impact 1.4 Millions  patients.md",
+    "stay updated!/Bleeping Computers/Russian hacker use RDP proxies to steal data in Mi-tm Attacks.md",
+    "stay updated!/Bleeping Computers/Bitter group target defense orgs with new Miya RAT Malware.md",
+    "setting up our own dns/Untitled.md",
+    "over the wire/cleared levels.md",
+    "stay updated!/the hacker news/Critical RCE Flaw in GFI KerioControl Allows Remote Code Execution via CRLF Injection.md",
+    "Docker Notes",
+    "MITM with ARP/Mitm with Ettercap.md",
+    "stay updated!/the hacker news",
+    "Spiderroot_scans/Scan_1.md",
+    "Spiderroot_scans",
+    "MITM with ARP",
+    "Mr.Robot Ctf/Getting key-1-of-3.txt.md",
+    "Mr.Robot Ctf/Getting key-3-of-3.txt.md",
+    "Metasploitale-2/Java RMIRegistry.md",
+    "Mr.Robot Ctf",
+    "Metasploitale-2/Samba Vulnarebility.md",
+    "Metasploitale-2/openssh 4.7.md",
+    "Metasploitale-2/vsftpd 2.3.4.md",
+    "Untitled.md",
+    "Metasploitale-2",
+    "Linux Commands/Du Command.md",
+    "setting up our own dns",
+    "Linux Commands"
+  ]
+}
